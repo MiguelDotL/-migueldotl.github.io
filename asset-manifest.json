@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c3a0eeb.css",
-    "main.js": "/static/js/main.6f07032e.js",
+    "main.js": "/static/js/main.af6d5991.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/devicon.svg?biu5f3": "/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/bitmoji-space-planet-2.png": "/static/media/bitmoji-space-planet-2.0dca1d595308e34a18c4.png",
@@ -37,12 +37,13 @@
     "static/media/linked-in.svg": "/static/media/linked-in.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/index.html",
     "static/media/twitter.svg": "/static/media/twitter.79d4e632f4bae6b3b526ae43e20864a3.svg",
+    "static/media/twitter-x.svg": "/static/media/twitter-x.71c4bb5975d435f124484cb4ad8401f0.svg",
     "main.8c3a0eeb.css.map": "/static/css/main.8c3a0eeb.css.map",
-    "main.6f07032e.js.map": "/static/js/main.6f07032e.js.map",
+    "main.af6d5991.js.map": "/static/js/main.af6d5991.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c3a0eeb.css",
-    "static/js/main.6f07032e.js"
+    "static/js/main.af6d5991.js"
   ]
 }
